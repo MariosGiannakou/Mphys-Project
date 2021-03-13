@@ -1,0 +1,3 @@
+#Here are the details of what should we go in the simulation
+#N_beads   ,N_topos   ,Length of Knots, Starting #knots, Numbering of each of those knots i.e. 0 for unknot 1 for trefoil etc.
+250 1 50 2 1 1
